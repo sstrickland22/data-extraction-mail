@@ -1,4 +1,5 @@
 # Attachment extractor
+![CI](https://github.com/sstrickland22/Public-Data-Trend-Visualizer/actions/workflows/ci.yml/badge.svg?branch=feature/attachment-extractor)
 
 This folder contains two small Python scripts to extract attachments from email messages.
 
