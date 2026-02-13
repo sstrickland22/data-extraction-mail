@@ -1,0 +1,8 @@
+public-ai-data-cleaning/
+│
+├── data/
+│   ├── raw/
+│   └── cleaned/
+│
+├── src/
+└── README.md
